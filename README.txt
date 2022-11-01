@@ -1,3 +1,3 @@
-Projetos de pratica de programação
+Projetos feito durante o curso
 
-Projeto de intrumento musical usando o javascript para identificação de evento com teclado.
+Projeto de intrumento musical focado para a programação javascript para identificação de evento com teclado.
